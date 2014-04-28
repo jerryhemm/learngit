@@ -11,4 +11,4 @@ change change
 push change to github
 Creating a new branch is quick.
 
-change on master
+Creating a new branch is quick AND simple.
